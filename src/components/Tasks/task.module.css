@@ -1,0 +1,21 @@
+.task {
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+  }
+  
+  .task h2 {
+    font-size: 2rem;
+    color: black;
+  }
+  
+  .task h3 {
+    color: black;
+    margin: 0;
+    font-size: 20px;
+  }
+  

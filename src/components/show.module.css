@@ -1,0 +1,37 @@
+.space{
+  margin-bottom: 10rem;
+}
+section {
+    margin: 1rem auto;
+    width: 90%;
+    max-width: 40rem;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+  }
+  section :first-child{
+      margin-top: 3rem;
+  }
+  
+  button {
+    font: inherit;
+    cursor: pointer;
+    background: burlywood;
+    border: 1px solid burlywood;
+    color: white;
+    padding: 0.75rem 2rem;
+    border-radius: 20px;
+    margin-right: 1rem ;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  button:active {
+    background-color: burlywood;
+    border-color: burlywood;
+  }
+  
